@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pradeep Ravindran prr@censhare.com
 
 # THANKS
 
